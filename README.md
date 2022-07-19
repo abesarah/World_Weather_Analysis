@@ -3,7 +3,7 @@
 ### Purpose
 Allows clients to input info about location and average weather temperature to identify potential travel locations and nearby hotels. Users are then prompted to choose up to four cities to create a travel itinerary, which is then plotted using the Google Maps API. 
 
-### Technology Used: 
+### Technologies Used: 
 - Python
     - Pandas
     - Numpy
